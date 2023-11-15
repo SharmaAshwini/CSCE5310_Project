@@ -36,12 +36,14 @@ CSCE 5310 Methods in Empirical Analysis - Project - Loan Delinquencies Predictio
 
 # Next Phase:
 
-7) Tune hyperparameters for optimum performance
+7) Try one more model
+   
+8) Tune hyperparameters for optimum performance
 
-8) Try scaling on best model with resampling and tuned hyperparameter
+9) Try scaling on best model with resampling and tuned hyperparameter
   try scaling for columns with large variance and conclude whether scaling is useful or not
 
-9) Summarization and conclusion
+10) Summarization and conclusion
 
 
 
