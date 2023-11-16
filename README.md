@@ -36,7 +36,7 @@ CSCE 5310 Methods in Empirical Analysis - Project - Loan Delinquencies Predictio
 
 # Next Phase:
 
-7) Try one more model
+7) Try two more models
    
 8) Tune hyperparameters for optimum performance
 
