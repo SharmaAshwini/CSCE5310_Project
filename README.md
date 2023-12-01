@@ -34,9 +34,9 @@ CSCE 5310 Methods in Empirical Analysis - Project - Loan Delinquencies Predictio
      Model which are giving better results with resampling
 
 
-# Next Phase:
+# Phase 2:
 
-7) Try two more models
+7) Try two more models (Logistic Regression & SVM)
    
 8) Tune hyperparameters for optimum performance
 
@@ -82,3 +82,5 @@ from imblearn.over_sampling import RandomOverSampler
 from sklearn.linear_model import LogisticRegression
 
 from sklearn.naive_bayes import GaussianNB
+
+from sklearn.svm import SVC
